@@ -42,7 +42,7 @@ class Star {
     ctx.fill();
   }
 }
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < 110; i++) {
   stars[i] = new Star();
 }
 
