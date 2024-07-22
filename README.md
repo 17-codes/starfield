@@ -1,3 +1,3 @@
 # starfield
 
-An nice animation  of stars in javascript and canvas api
+A nice animation  of stars in javascript and canvas api
